@@ -53,7 +53,7 @@
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Bilingual - Vietnamese",
       "level": "",
       "keywords": [
         "C",
@@ -65,7 +65,7 @@
       ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "Microsoft Office",
       "level": "",
       "keywords": [
         "MacOS",
@@ -113,31 +113,58 @@
       ]
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
+      "organization": "Delta Sigma Pi",
+      "website": "http://dspuhm.com",
+      "position": "Brother",
+      "startDate": "Fall 2018",
+      "endDate": "Present",
       "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+      "highlights": 
+        "Member, Senior Vice President Committee, Fall 2018"
+      ]
+    }
+  ],
+  "organization": "Business Executive Society of Tomorrow",
+      "website": "https://www.bestuhm.org",
+      "position": "Member",
+      "startDate": "Spring 2019",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": 
+        "Member, Spring 2019-Present", 
+        "Inter Business Council Senator, Fall 2019"
+      ]
+    }
+  ],
+"organization": "International Business Organization",
+      "website": "https://www.ibouhm.com",
+      "position": "Director of Student Relations",
+      "startDate": "Fall 2018",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": 
+        "Member, Fall 2018-Present", 
+        "Director of Student Relations, Spring 2020-Present"
+      ]
+    }
+  ],
+"organization": "Information Technology Management Association",
+      "website": "http://www.itmahawaii.com",
+      "position": "Member",
+      "startDate": "Fall 2019",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": 
+        "Member, Fall 2019-Present"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Dean's List",
+      "date": "2018-Present",
+      "awarder": "UH Manoa",
+      "summary": "Awarded to students who obtain above a 3.5 GPA for the semester"
     }
   ],
   "references": [
