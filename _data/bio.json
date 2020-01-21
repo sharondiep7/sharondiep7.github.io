@@ -6,7 +6,7 @@
     "email": "sdiep7@hawaii.edu",
     "phone": "808-223-5789",
     "website": "https://sharondiep7.github.io",
-    "summary": "I am a 2nd year undergraduate student at the Univeristy of Hawaiia at Manoa working towards a B.B.A in Marketing, Management Information Systems, and International Business with a Minor in Fashion Design Merchandising. My expected graduation is Spring 2022.",
+    "summary": "Aloha! I am a 2nd year undergraduate student at the Univeristy of Hawaiia at Manoa working towards a B.B.A in Marketing, Management Information Systems, and International Business with a Minor in Fashion Design Merchandising. My expected graduation is Spring 2022.",
     "location": {
       "address": "",
       "postalCode": "96818",
@@ -34,19 +34,19 @@
   },
   "interests": [
     {
-      "name": "traveling",
+      "name": "Traveling",
       "keywords": [
         "Arduino",
         "TI MSP430"
       ]
     },
     {
-      "name": "shopping",
+      "name": "Shopping",
       "keywords": [
       ]
     },
     {
-      "name": "watching movies & tv shows",
+      "name": "Watching movies & tv shows",
       "keywords": [
       ]
     }
