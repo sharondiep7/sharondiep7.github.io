@@ -34,19 +34,17 @@
   },
   "interests": [
     {
-      "name": "traveling",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "shopping",
+      "name": "Traveling",
       "keywords": [
       ]
     },
     {
-      "name": "watching movies & tv shows",
+      "name": "Shopping",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Watching movies & tv shows",
       "keywords": [
       ]
     }
@@ -56,30 +54,23 @@
       "name": "Bilingual - Vietnamese",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
       ]
     },
     {
       "name": "Microsoft Office",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Excel",
+        "Word",
+        "Powerpoint",
+        "Outlook",
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Business (expected Spring, 2022)",
+      "area": "Marketing, International Business, & Management Information Systems (Expected: Grad Spring, 2022)",
       "studyType": "B.B.A",
       "startDate": "2018-08-26",
       "endDate": "Present",
@@ -108,7 +99,6 @@
       "endDate": "2019-08-26",
       "summary": "Applied marketing concepts and skills at a Korean based makeup company",
       "highlights": [
-        "",
         "Answer phone and email responses to the ITS Help Desk"
       ]
     },
