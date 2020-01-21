@@ -34,19 +34,19 @@
   },
   "interests": [
     {
-      "name": "Traveling",
+      "name": "traveling",
       "keywords": [
         "Arduino",
         "TI MSP430"
       ]
     },
     {
-      "name": "Shopping",
+      "name": "shopping",
       "keywords": [
       ]
     },
     {
-      "name": "Watching movies & tv shows",
+      "name": "watching movies & tv shows",
       "keywords": [
       ]
     }
