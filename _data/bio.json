@@ -1,164 +1,146 @@
 {
-  "basics": {
-    "name": "Sharon Diep",
-    "label": "Undergraduate Student",
-    "picture": "https://sharondiep7.github.io/images/Sharon.jpg",
-    "email": "sdiep7@hawaii.edu",
-    "phone": "808-223-5789",
-    "website": "https://sharondiep7.github.io",
-    "summary": "Aloha! I am a 2nd year undergraduate student at the Univeristy of Hawaiia at Manoa working towards a B.B.A in Marketing, Management Information Systems, and International Business with a Minor in Fashion Design Merchandising. My expected graduation is Spring 2022.",
-    "location": {
-      "address": "",
-      "postalCode": "96818",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
-    },
-    "profiles": [
-      {
-        "network": "github",
-        "username": "sharondiep7",
-        "url": "https://github.com/sharondiep7"
-      },
-      {
-        "network": "linkedin",
-        "username": "Sharondiep",
-        "url": "https://www.linkedin.com/in/sharon-diep-/"
-      },
-      {
-        "network": "instagram",
-        "username": "aloha.sharon",
-        "url": "https://www.instagram.com/aloha.sharon/"
-      }
-    ]
-  },
-  "interests": [
-    {
-      "name": "Traveling",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "Shopping",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "Watching Movies & TV Shows",
-      "keywords": [
-      ]
-    }
-  ],
-  "skills": [
-    {
-      "name": "Bilingual",
-      "level": "",
-      "keywords": [
-          "Vietnamese"
-      ]
-    },
-    {
-      "name": "Microsoft Office",
-      "level": "",
-      "keywords": [
-        "Excel",
-        "Word",
-        "Powerpoint",
-        "Outlook"
-      ]
-    }
-  ],
-  "education": [
-    {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Marketing, International Business, & Management Information Systems (Expected: Grad Spring, 2022)",
-      "studyType": "B.B.A",
-      "startDate": "2018-08-26",
-      "endDate": "Present",
-      "gpa": "",
-      "courses": [
-      ]
-    }
-  ],
-  "work": [
-    {
-      "company": "Office of Internships and Career Development",
-      "position": "Student Advisor",
-      "website": "",
-      "startDate": "2020-01-014",
-      "endDate": "Present",
-      "summary": "Student advisor for undergraduate and MBA students looking for help with internships and career development, as well as assisting Patrick Stuart and Rick Varley with scheduling and Career Expo.",
-      "highlights": [
-        "Schedule appointments, answer any questions regarding internships and resumes"
-      ]
-    },
-    {
-      "company": "Elizabeth Mott LLC",
-      "position": "Marketing Intern",
-      "website": "",
-      "startDate": "2019-02-01",
-      "endDate": "2019-08-26",
-      "summary": "Applied marketing concepts and skills at a Korean based makeup company",
-      "highlights": [
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    },
-    {
-      "organization": "Delta Sigma Pi",
-      "website": "http://dspuhm.com",
-      "position": "Brother",
-      "startDate": "Fall 2018",
-      "endDate": "Present",
-      "summary": "",
-      "highlights": 
-        "Member, Senior Vice President Committee, Fall 2018"
-    },
-    {
-  "organization": "Business Executive Society of Tomorrow",
-      "website": "https://www.bestuhm.org",
-      "position": "Member",
-      "startDate": "Spring 2019",
-      "endDate": "Present",
-      "summary": "",
-      "highlights": [
-        "Member, Spring 2019-Present", 
-        "Inter Business Council Senator, Fall 2019"
-      ]
-    },
-    {
-"organization": "International Business Organization",
-      "website": "https://www.ibouhm.com",
-      "position": "Director of Student Relations",
-      "startDate": "Fall 2018",
-      "endDate": "Present",
-      "summary": "",
-      "highlights": 
-        "Member, Fall 2018-Present", 
-        "Director of Student Relations, Spring 2020-Present"
-    },
-    {
-"organization": "Information Technology Management Association",
-      "website": "http://www.itmahawaii.com",
-      "position": "Member",
-      "startDate": "Fall 2019",
-      "endDate": "Present",
-      "summary": "",
-      "highlights": 
-        "Member, Fall 2019-Present"
-    }
-  ],
-  "awards": [
-    {
-      "title": "Dean's List",
-      "date": "2018-Present",
-      "awarder": "UH Manoa",
-      "summary": "Awarded to students who obtain above a 3.5 GPA for the semester"
-    }
-  ],
-  "references": [
-    {
-      "name": "Available upon request",
-      "reference": ""
-    }
-  ]
+	"basics": {
+		"name": "Sharon Diep",
+		"label": "Undergraduate Student",
+		"picture": "https://sharondiep7.github.io/images/Sharon.jpg",
+		"email": "sdiep7@hawaii.edu",
+		"phone": "808-223-5789",
+		"website": "https://sharondiep7.github.io",
+		"summary": "Aloha! I am a 2nd year undergraduate student at the Univeristy of Hawaiia at Manoa working towards a B.B.A in Marketing, Management Information Systems, and International Business with a Minor in Fashion Design Merchandising. My expected graduation is Spring 2022.",
+		"location": {
+			"address": "",
+			"postalCode": "96818",
+			"city": "Honolulu",
+			"countryCode": "USA",
+			"region": "Hawaii"
+		},
+		"profiles": [{
+				"network": "github",
+				"username": "sharondiep7",
+				"url": "https://github.com/sharondiep7"
+			},
+			{
+				"network": "linkedin",
+				"username": "Sharondiep",
+				"url": "https://www.linkedin.com/in/sharon-diep-/"
+			},
+			{
+				"network": "instagram",
+				"username": "aloha.sharon",
+				"url": "https://www.instagram.com/aloha.sharon/"
+			}
+		]
+	},
+	"interests": [{
+			"name": "Traveling",
+			"keywords": []
+		},
+		{
+			"name": "Shopping",
+			"keywords": []
+		},
+		{
+			"name": "Watching Movies & TV Shows",
+			"keywords": []
+		}
+	],
+	"skills": [{
+			"name": "Bilingual",
+			"level": "",
+			"keywords": [
+				"Vietnamese"
+			]
+		},
+		{
+			"name": "Microsoft Office",
+			"level": "",
+			"keywords": [
+				"Excel",
+				"Word",
+				"Powerpoint",
+				"Outlook"
+			]
+		}
+	],
+	"education": [{
+		"institution": "University of Hawaii, Honolulu, HI",
+		"area": "Marketing, International Business, & Management Information Systems (Expected: Grad Spring, 2022)",
+		"studyType": "B.B.A",
+		"startDate": "2018-08-26",
+		"endDate": "Present",
+		"gpa": "",
+		"courses": []
+	}],
+	"work": [{
+			"company": "Office of Internships and Career Development",
+			"position": "Student Advisor",
+			"website": "",
+			"startDate": "2020-01-014",
+			"endDate": "Present",
+			"summary": "Student advisor for undergraduate and MBA students looking for help with internships and career development, as well as assisting Patrick Stuart and Rick Varley with scheduling and Career Expo.",
+			"highlights": [
+				"Schedule appointments, answer any questions regarding internships and resumes"
+			]
+		},
+		{
+			"company": "Elizabeth Mott LLC",
+			"position": "Marketing Intern",
+			"website": "",
+			"startDate": "2019-02-01",
+			"endDate": "2019-08-26",
+			"summary": "Applied marketing concepts and skills at a Korean based makeup company",
+			"highlights": [
+				"Answer phone and email responses to the ITS Help Desk"
+			]
+		},
+		{
+			"organization": "Delta Sigma Pi",
+			"website": "http://dspuhm.com",
+			"position": "Brother",
+			"startDate": "Fall 2018",
+			"endDate": "Present",
+			"summary": "",
+			"highlights": "Member, Senior Vice President Committee, Fall 2018"
+		},
+		{
+			"organization": "Business Executive Society of Tomorrow",
+			"website": "https://www.bestuhm.org",
+			"position": "Member",
+			"startDate": "Spring 2019",
+			"endDate": "Present",
+			"summary": "",
+			"highlights": [
+				"Member, Spring 2019-Present",
+				"Inter Business Council Senator, Fall 2019"
+			]
+		},
+		{
+			"organization": "International Business Organization",
+			"website": "https://www.ibouhm.com",
+			"position": "Director of Student Relations",
+			"startDate": "Fall 2018",
+			"endDate": "Present",
+			"summary": "",
+			"highlights": "Director of Student Relations, Spring 2020-Present"
+		},
+		{
+			"organization": "Information Technology Management Association",
+			"website": "http://www.itmahawaii.com",
+			"position": "Member",
+			"startDate": "Fall 2019",
+			"endDate": "Present",
+			"summary": "",
+			"highlights": "Member, Fall 2019-Present"
+		}
+	],
+	"awards": [{
+		"title": "Dean's List",
+		"date": "2018-Present",
+		"awarder": "UH Manoa",
+		"summary": "Awarded to students who obtain above a 3.5 GPA for the semester"
+	}],
+	"references": [{
+		"name": "Available upon request",
+		"reference": ""
+	}]
 }
